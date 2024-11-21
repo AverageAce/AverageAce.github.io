@@ -260,12 +260,20 @@ hr {
         max-width: 50%;
         flex: 0 0 50%;
     }
+
+    .project-blurb {
+        font-size: 14px;
+    }
 }
 
 @media (max-width: 767px) {
     .col-sm-12 {
         max-width: 100%;
         flex: 0 0 100%;
+    }
+
+    .project-blurb {
+        font-size: 14px;
     }
 }
 
