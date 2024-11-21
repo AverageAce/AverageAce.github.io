@@ -1,0 +1,4 @@
+- Continue adding images to their relevent pages
+- Replace index thumbnails with high resolution versions
+- Add javascript functions
+- Create page for miscellaneous renders
