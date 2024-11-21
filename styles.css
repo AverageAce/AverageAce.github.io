@@ -275,6 +275,10 @@ hr {
     .navbar-brand img {
         align: center;
     }
+    
+    #banner-col a {
+        padding: 0.1rem;
+    }
 }
 
 @media (max-width: 767px) {
@@ -296,6 +300,10 @@ hr {
     
     .navbar-brand img {
         align: center;
+    }
+    
+    #banner-col a {
+        padding: 0.1rem;
     }
 }
 
